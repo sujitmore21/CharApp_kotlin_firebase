@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "41912114882",
+    "firebase_url": "https://chatappkotlin-3facf.firebaseio.com",
+    "project_id": "chatappkotlin-3facf",
+    "storage_bucket": "chatappkotlin-3facf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41912114882:android:f411579fb05a829b",
+        "android_client_info": {
+          "package_name": "com.sujitmo.chatapp_firebase_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41912114882-m3b97vroev8jqku64rim7gdpaj72vmvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sujitmo.chatapp_firebase_kotlin",
+            "certificate_hash": "46981fd911a641ef980997e4d8134832cfc1fabd"
+          }
+        },
+        {
+          "client_id": "41912114882-ipge7eqkhslqtagm1qnrqijbvghi48j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMQZPQtp-nQquG2WvbgiC5_Ud31k-JK_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41912114882-ipge7eqkhslqtagm1qnrqijbvghi48j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
